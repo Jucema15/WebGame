@@ -1,0 +1,16 @@
+{
+  "name": "webgame",
+  "version": "1.0.0",
+  "description": "ci",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^10.4.1",
+    "husky": "^9.0.11",
+    "lru-cache": "^10.2.2"
+  }
+}
